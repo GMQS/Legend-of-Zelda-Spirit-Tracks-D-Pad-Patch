@@ -24,7 +24,7 @@ Compiling these sources requires:
 
 After obtaining the required tools:
 1. Copy `armips`, `blz`, and `ndstool` to parent directory, with `compile.bat`.
-1. Copy a **US** or **EU** copy of *The Legend of Zelda: Spirit Tracks* to the `unpack` directory and name it `input.nds`.
+1. Copy a **US** or **EU** or **JP** copy of *The Legend of Zelda: Spirit Tracks* to the `unpack` directory and name it `input.nds`.
 1. Run `compile.bat`.
 
 Compatibility
